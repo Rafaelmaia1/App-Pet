@@ -4,7 +4,7 @@
 
 ## 🔗 Ver ao Vivo
 
-👉 **[Abrir o PawApp](https://SEU_USUARIO.github.io/pawapp/)**
+👉 **[Abrir o PawApp](https://github.com/Rafaelmaia1/App-Pet/stargazers)**
 
 ---
 
