@@ -3,9 +3,7 @@
 > Protótipo completo com **5 tipos de conta**, dashboards personalizados, chat real entre usuários, painel admin com moderação, e muito mais. Funciona como GitHub Page sem dependências externas.
 
 ## 🔗 Ver ao Vivo
-
-👉 **[Abrir o PawApp](https://github.com/Rafaelmaia1/App-Pet/stargazers)**
-
+https://rafaelmaia1.github.io/App-Pet/
 ---
 
 ## 👤 5 Tipos de Conta
